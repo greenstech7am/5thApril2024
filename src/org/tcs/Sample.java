@@ -54,6 +54,7 @@ public class Sample {
 			
 			e.printStackTrace();
 			System.out.println("Hello");
+			System.out.println("Kannan cloned");
 		}
 		
 		
